@@ -7,7 +7,7 @@
         <div class="card-deck">
             <div class="card border border-primary">
                 <div class="card-body">
-                    <h5 class="card-title">Cadastro de produtos</h5>
+                    <h5 class="card-title">Cadastro de Produtos</h5>
                     <p class="card=text">
                         Aqui você cadastra todos os seus produtos.
                         Só não se esqueça de cadastrar previamente as categorias
